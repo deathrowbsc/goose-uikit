@@ -2126,9 +2126,9 @@ var colors = {
 		invertedContrast: "#191326",
 		input: "#483f5a",
 		tertiary: "#353547",
-		text: "#EF6A78",
+		text: "#EAE2FC",
 		textDisabled: "#666171",
-		textSubtle: "#EF6A78",
+		textSubtle: "#c9c4d4",
 		borderColor: "#524B63",
 		card: "#27262c",
 		gradients: {
@@ -2144,9 +2144,9 @@ var colors = {
 		input: "#483f5a",
 		primaryDark: "#F22761",
 		tertiary: "#353547",
-		text: "#EF6A78",
+		text: "#EAE2FC",
 		textDisabled: "#666171",
-		textSubtle: "#EF6A78",
+		textSubtle: "#c9c4d4",
 		borderColor: "#524B63",
 		card: "#27262c",
 		gradients: {
