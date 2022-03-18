@@ -2098,12 +2098,12 @@ var socials = [
 	{
 		label: "Telegram",
 		icon: "TelegramIcon",
-		href: ""
+		href: "https://t.me/deathrowbsc"
 	},
 	{
 		label: "Twitter",
 		icon: "TwitterIcon",
-		href: ""
+		href: "https://twitter.com/DeathRow_BSC"
 	}
 ];
 var colors = {
